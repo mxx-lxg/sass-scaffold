@@ -1,5 +1,5 @@
 # sass-scaffold
-SASS project structure templat,[as described here](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4).
+SASS project structure templat, [as described here](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4).
 
 #### 1.
 Checkout into project css folder for maximum convenience. 
