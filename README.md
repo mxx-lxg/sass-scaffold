@@ -4,7 +4,7 @@ SASS project structure template, [as described here](https://itnext.io/structuri
 ## Installation
 
 #### 1.
-Checkout into project css folder for maximum convenience. 
+Checkout or download into project css folder for maximum convenience. 
 
 #### 2.
 run
