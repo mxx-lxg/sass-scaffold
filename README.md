@@ -16,5 +16,11 @@ $ grunt
 #### 3.
 include style.css or style.min.css into your website. 
 
+#### 4.
+???
+
+#### 5.
+Profit.
+
 ## Usage
 TBD
