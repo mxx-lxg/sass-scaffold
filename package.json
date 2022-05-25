@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/mxx-lxg/sass-scaffold#readme",
   "dependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.5.3",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-watch": "^1.1.0",
